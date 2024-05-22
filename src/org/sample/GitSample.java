@@ -8,6 +8,12 @@ public class GitSample {
 		
 		int a = 70;
 		System.out.println(a);
+		
+
+		float b = 46.94f;
+		System.out.println(b);
+
+
 	}
 
 }
